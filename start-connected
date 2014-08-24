@@ -1,0 +1,2 @@
+java -jar Connected.jar
+read -p "Press [Enter] key to exit"
